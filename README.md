@@ -1,10 +1,5 @@
 Projet de Spécialité (ENSIMAG 2A):
 
-Membres:
-Omar BENCHEKROUN
-Hamza BENJELLOUN
-Yousra BCHIR
-Nabil BENSRHIER
 
 Sujet : Expérimentation de méthodes de résolution pour l'optimisation combinatoire
 
